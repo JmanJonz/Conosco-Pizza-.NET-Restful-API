@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conosco Pizza .NET Restful API", "Conosco Pizza .NET Restful API.csproj", "{291E29EA-DC8C-4465-8A15-1DA9B04209C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{291E29EA-DC8C-4465-8A15-1DA9B04209C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{291E29EA-DC8C-4465-8A15-1DA9B04209C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{291E29EA-DC8C-4465-8A15-1DA9B04209C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{291E29EA-DC8C-4465-8A15-1DA9B04209C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DC3F9D7-D022-430A-AA25-E647D50872B0}
+	EndGlobalSection
+EndGlobal

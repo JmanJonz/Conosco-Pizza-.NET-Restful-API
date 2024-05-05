@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Conosco Pizza .NET Restful API.props" />
+</Project>

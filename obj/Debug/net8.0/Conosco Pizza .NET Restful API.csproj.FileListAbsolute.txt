@@ -1,0 +1,33 @@
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\bin\Debug\net8.0\appsettings.json
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\bin\Debug\net8.0\Conosco Pizza .NET Restful API.exe
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\bin\Debug\net8.0\Conosco Pizza .NET Restful API.deps.json
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\bin\Debug\net8.0\Conosco Pizza .NET Restful API.runtimeconfig.json
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\bin\Debug\net8.0\Conosco Pizza .NET Restful API.dll
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\bin\Debug\net8.0\Conosco Pizza .NET Restful API.pdb
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\obj\Debug\net8.0\Conosco Pizza .NET Restful API.csproj.AssemblyReference.cache
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\obj\Debug\net8.0\Conosco Pizza .NET Restful API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\obj\Debug\net8.0\Conosco Pizza .NET Restful API.AssemblyInfoInputs.cache
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\obj\Debug\net8.0\Conosco Pizza .NET Restful API.AssemblyInfo.cs
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\obj\Debug\net8.0\Conosco Pizza .NET Restful API.csproj.CoreCompileInputs.cache
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\obj\Debug\net8.0\Conosco Pizza .NET Restful API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\obj\Debug\net8.0\Conosco Pizza .NET Restful API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\obj\Debug\net8.0\Conosco Pizza .NET Restful API.sourcelink.json
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\obj\Debug\net8.0\staticwebassets\msbuild.Conosco Pizza .NET Restful API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\obj\Debug\net8.0\staticwebassets\msbuild.build.Conosco Pizza .NET Restful API.props
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Conosco Pizza .NET Restful API.props
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Conosco Pizza .NET Restful API.props
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\obj\Debug\net8.0\scopedcss\bundle\Conosco Pizza .NET Restful API.styles.css
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\obj\Debug\net8.0\Conosco .83D8328A.Up2Date
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\obj\Debug\net8.0\Conosco Pizza .NET Restful API.dll
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\obj\Debug\net8.0\refint\Conosco Pizza .NET Restful API.dll
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\obj\Debug\net8.0\Conosco Pizza .NET Restful API.pdb
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\obj\Debug\net8.0\Conosco Pizza .NET Restful API.genruntimeconfig.cache
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Conosco Pizza .NET Restful API\obj\Debug\net8.0\ref\Conosco Pizza .NET Restful API.dll
