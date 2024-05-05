@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conosco Pizza .NET Restful API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a19c4b6fea396ccd2f781aea5683f591ff96adf4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbe0e84d9cdbb629cd979c1cc7a72a31e9d5339d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Conosco Pizza .NET Restful API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conosco Pizza .NET Restful API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
